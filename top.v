@@ -1,24 +1,7 @@
-`timescale 1ns / 1ps
-//////////////////////////////////////////////////////////////////////////////////
-// Company: 
-// Engineer: 
-// 
-// Create Date: 05/28/2017 10:09:10 PM
-// Design Name: 
-// Module Name: top
-// Project Name: 
-// Target Devices: 
-// Tool Versions: 
-// Description: 
-// 
-// Dependencies: 
-// 
-// Revision:
-// Revision 0.01 - File Created
-// Additional Comments:
-// 
-//////////////////////////////////////////////////////////////////////////////////
+//Created by Higuoxing@outlook.com
+//Have fun :)
 
+`timescale 1ns / 1ps
 
 module top(clk, color, sw, up, down, left, right, hsync, vsync, vga_r, vga_g, vga_b);
 
